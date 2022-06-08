@@ -10,6 +10,6 @@ color.textContent = colors[randomNumber];
 });
 
 function getRandomNumber() {
-    return Math.floor(Math).random()*colors.length);
+    return Math.floor(Math.random()*colors.length);
 }
 
