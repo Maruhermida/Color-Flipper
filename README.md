@@ -1,2 +1,2 @@
-# Colo-Flipper
+# Color-Flipper
 Vanilla JavaScript Projects
